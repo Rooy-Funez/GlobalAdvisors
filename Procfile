@@ -1,0 +1,1 @@
+worker: python telegrambot_globaladvisors.py
